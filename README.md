@@ -34,7 +34,7 @@ Yep!
 
 **Would this work with a Cyrix 5x86-100/120?**
 
-_Maybe_, but these CPUs really want 3.45V and draw quite a bit more power, up to 1.4A for the 120MHz model. If you intend to do any "extreme overclocking" then 2A is probably not enough for what you want to do, so you may have to fire up KiCAD on your end and rejig the device to take a 3A rated buck converter instead. Maybe even one that kicks out 15mV more voltage too, you never know.
+_Maybe_, but these CPUs really want 3.45V and draw quite a bit more power, up to 1.4A for the 120MHz model. If you intend to do any "extreme overclocking" then 2A is probably not enough for what you want to do, so you may have to fire up KiCAD on your end and rejig the device to take a 3A rated buck converter instead. Maybe even one that kicks out 150mV more voltage too, you never know.
 
 **Wait a minute! The far left pin is the ADJUST pin for the LT1085! How the hell am I going to get GROUND there?**
 
