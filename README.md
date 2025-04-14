@@ -2,7 +2,7 @@
 ![back](https://github.com/user-attachments/assets/00612b87-f02c-4283-8265-d86f0e3c4a03)
 If anyone really wants to replace an LT1085 doing 3.3V duty on a 486 motherboard with a buck converter equivalent and doesn't mind the prospect of rewiring some stuff for it, I've made 'Yorp', a three pin buck converter board based on the Diodes AP63203WU 3.3V 2A Synchronous Buck. 
 
-Now, mind you, LT1085s are rated up to 3A but the relatively frugal AMD Am5x86-133 is specced up to 960mA-ish worst case (so slightly less than 1A), so you've still got around an amp of headroom when running at stock speeds. The Cyrix 5x86 wants quite a bit more power though, 1.2A at 100MHz or 1.4A at 120MHz, so you may want to consider reworking Yorp to take a beefier buck converter if you want to use a higher current draw CPU (will also require reworking the PCB and schematic likewise). 
+Now, mind you, LT1085s are rated up to 3A but the relatively frugal AMD Am5x86-133 is specced up to 960mA-ish worst case (so slightly less than 1A), so you've still got around an amp of headroom when running at stock speeds. The Cyrix 5x86 wants quite a bit more power though, 1.2A at 100MHz or 1.4A at 120MHz, so you may want to consider reworking Yorp to take a beefier buck converter if you want to use a higher current draw CPU, especially if you intend to overclock (will also require reworking the PCB and schematic likewise). 
 
 I've made one of these and put it in my PB450 motherboard based Packard Bell Legend 10CDT, where it works quite well driving an Am5x86 at 100MHz (lower speed is because I forgot to solder in the multiplier jumper, LOL). 
 
