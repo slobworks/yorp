@@ -1,6 +1,6 @@
 ![bleh](https://github.com/user-attachments/assets/0f7d0ec8-4627-4dc8-9603-c0ac0fa3894a)
 ![bleh_back](https://github.com/user-attachments/assets/15f76766-a284-4b91-a2bd-51cd898fd05f)
-[b]New![/b] Version 0.2 adds a full amp of extra current capacity, and has adjustable output. 3.6V output now stably handles CPUs that require just a wee bit more voltage than 3.3V on the nose, and the extra current ought to improve operation with Cyrix 5x86 CPUs.
+**New!** Version 0.2 adds a full amp of extra current capacity, and has adjustable output. 3.6V output now stably handles CPUs that require just a wee bit more voltage than 3.3V on the nose, and the extra current ought to improve operation with Cyrix 5x86 CPUs.
 
 If anyone really wants to replace an LT1085 doing 3.3V duty on a 486 motherboard with a buck converter equivalent and doesn't mind the prospect of rewiring some stuff for it, I've made 'Yorp', a three pin buck converter board based on the Diodes AP63301WU 3A Synchronous Buck. 
 
