@@ -22,7 +22,7 @@ Bill of materials:
 
 -1x 51pF 0805/2012 metric SMD ceramic cap, C0G
 
--1x 4.7uH 6.3mm x 6.3mm SMD inductor rated for _at least_ 2A saturation current (I used one of these: https://www.digikey.com/en/products/detail/murata-electronics/1255AY-3R9N-P3/6205579)
+-1x 4.7uH 6.3mm x 6.3mm SMD inductor rated for _at least_ 4.5A saturation current (I used one of these: https://www.digikey.com/en/products/detail/murata-electronics/1255AY-4R7M-P3/5271453)
 
 -1x 2.54mm pitch, 3-pin, pin header
 
